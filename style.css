@@ -194,6 +194,10 @@ a{
     letter-spacing: .5rem;
     color: whitesmoke;
 }
+.hero .hero-info .hero-info-animationheading {
+	letter-spacing: .3rem;
+	text-transform: uppercase;
+}
 .hero .hero-info .hero-info-button {
 	border: 2px solid crimson;
     margin-top: 30px;
